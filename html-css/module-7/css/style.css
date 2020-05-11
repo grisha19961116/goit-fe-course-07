@@ -1,0 +1,10 @@
+*{padding: 0;
+    margin: 0;
+}
+body{
+    width: 940px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
