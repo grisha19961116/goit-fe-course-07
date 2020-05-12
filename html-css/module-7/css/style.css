@@ -259,13 +259,9 @@ background-color: #ffffff;
 border: 1px solid #cccccc;
 resize: none;
 }
-/* .neccesary:required:focus:valid{
-    
-    border: 3px solid green;
-} */
 .neccesary:required:focus:invalid{
-    border: 3px solid red;
+    outline: 3px solid red;
 }
 .neccesary:required:focus:valid:not(:placeholder-shown){
-    border: 3px solid green;
+    outline: 3px solid green;
 }
