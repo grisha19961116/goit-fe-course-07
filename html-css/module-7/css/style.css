@@ -213,15 +213,13 @@ height: 65px;
 margin: 0 auto;
 border-radius: 3px;
 background-color: #fed136;
-
-}
-.form-button-p{
-    font-size: 18px;
+font-size: 18px;
     color: #ffffff;
     font-family: "Montserrat";
     font-weight: 700;
     text-align: center;
     text-transform: uppercase;
+
 }
 .form-div{
     display: flex;
